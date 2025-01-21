@@ -1,5 +1,3 @@
-# Network Penetration Testing Lab
-
 ## Introduction
 
 This documentation outlines the steps to set up and utilize a Network Penetration Testing lab for practice and skill enhancement. The lab will simulate a real-world network environment to test various penetration testing techniques and tools.
@@ -147,7 +145,7 @@ This documentation outlines the steps to set up and utilize a Network Penetratio
 
 4. **Post-Exploitation**
 - Conducted privilege escalation, data exfiltration, and persistence mechanisms.
-- Document all actions taken and outcomes achieved.
+- Documented all actions taken and outcomes achieved.
 
 *Ref 20: Post-Exploitation - Windows 10 1*
 
@@ -162,12 +160,12 @@ This documentation outlines the steps to set up and utilize a Network Penetratio
 ![post-exploitation - windows 10 3](images/image22.png)
 
 5. **Reporting**
-- *Findings*:
-The project revealed multiple vulnerabilities, including unpatched software, weak passwords, and misconfigured services.
-Each findings was documented with evidence and categorized based on severity.
+1. *Findings*:
+- The project revealed multiple vulnerabilities, including unpatched software, weak passwords, and misconfigured services.
+- Each findings was documented with evidence and categorized based on severity.
 
-- *Recommendations*:
-Detailed remediation steps were provided for each identified vulnerability, emphasizing the importance of regular patch management, strong password policies, and proper configuration of services.
+2. *Recommendations*:
+- Detailed remediation steps were provided for each identified vulnerability, emphasizing the importance of regular patch management, strong password policies, and proper configuration of services.
 
 ## Conclusion
 
