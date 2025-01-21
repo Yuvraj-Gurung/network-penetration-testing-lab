@@ -121,6 +121,26 @@ This documentation outlines the steps to set up and utilize a Network Penetratio
 
 ![metasploit 5](images/image13.png)
 
+*Ref 14: Armitage 1*
+
+![armitage 1](images/image14.png)
+
+*Ref 15: Armitage 2*
+
+![armitage 2](images/image15.png)
+
+*Ref 16: Armitage 3*
+
+![armitage 3](images/image16.png)
+
+*Ref 17: Armitage 4*
+
+![armitage 4](images/image17.png)
+
+*Ref 18: Armitage 5*
+
+![armitage 5](images/image18.png)
+
 4. **Post-Exploitation**
 - Conducted privilege escalation, data exfiltration, and persistence mechanisms.
 - Document all actions taken and outcomes achieved.
