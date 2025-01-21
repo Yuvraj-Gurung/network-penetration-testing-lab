@@ -43,6 +43,9 @@ This documentation outlines the steps to set up and utilize a Network Penetratio
 - Configure the VM with at least 2 GB of RAM and 20 GB of disk space.
 - Attach the Kali Linux ISO to the VM and complete the installation process.
 
+*Ref 1: Kali Linux Installation*
+![kali linux](images/image1.png)
+
 2. **Create a Windows 10 VM**:
 - Open the virtualization software and create a new VM.
 - Configure the VM with at least 2 GB of RAM and 20 GB of disk space.
