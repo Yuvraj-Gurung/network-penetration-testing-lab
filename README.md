@@ -137,13 +137,29 @@ This documentation outlines the steps to set up and utilize a Network Penetratio
 
 ![armitage 4](images/image17.png)
 
-*Ref 18: Armitage 5*
+*Ref 18: Msfvenom Payloads*
 
-![armitage 5](images/image18.png)
+![msfvenom payloads](images/image18.png)
+
+*Ref 19: Exploitation - Windows 10*
+
+![exploitation - windows 10](images/image19.png)
 
 4. **Post-Exploitation**
 - Conducted privilege escalation, data exfiltration, and persistence mechanisms.
 - Document all actions taken and outcomes achieved.
+
+*Ref 20: Post-Exploitation - Windows 10 1*
+
+![post-exploitation - windows 10 1](images/image20.png)
+
+*Ref 21: Post-Exploitation - Windows 10 2*
+
+![post-exploitation - windows 10 2](images/image21.png)
+
+*Ref 22: Post-Exploitation - Windows 10 3*
+
+![post-exploitation - windows 10 3](images/image22.png)
 
 5. **Reporting**
 - *Findings*:
