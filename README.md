@@ -75,11 +75,11 @@ This documentation outlines the steps to set up and utilize a Network Penetratio
 
 *Ref 4: Nmap Scan 1*
 
-![nmap scan 1](images/image1.png)
+![nmap scan 1](images/image3.png)
 
 *Ref 5: Nmap Scan 2*
 
-![nmap scan 2](images/image1.png)
+![nmap scan 2](images/image3.png)
 
 2. **Scanning and Enumeration/Vulnerability Scanning**
 - Used vulnerability scanner i.e.; Nessus to detect weaknesses in the network.
