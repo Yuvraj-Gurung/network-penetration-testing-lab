@@ -101,6 +101,26 @@ This documentation outlines the steps to set up and utilize a Network Penetratio
 - Utilized Metasploit Framework & Armitage to exploit discovered vulnerabilities.
 - Gained unauthorized access to the target machines.
 
+*Ref 9: Metasploit 1*
+
+![metasploit 1](images/image9.png)
+
+*Ref 10: Metasploit 2*
+
+![metasploit 2](images/image10.png)
+
+*Ref 11: Metasploit 3*
+
+![metasploit 3](images/image11.png)
+
+*Ref 12: Metasploit 4*
+
+![metasploit 4](images/image12.png)
+
+*Ref 13: Metasploit 5*
+
+![metasploit 5](images/image13.png)
+
 4. **Post-Exploitation**
 - Conducted privilege escalation, data exfiltration, and persistence mechanisms.
 - Document all actions taken and outcomes achieved.
