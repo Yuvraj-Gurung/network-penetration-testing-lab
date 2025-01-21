@@ -44,6 +44,7 @@ This documentation outlines the steps to set up and utilize a Network Penetratio
 - Attach the Kali Linux ISO to the VM and complete the installation process.
 
 *Ref 1: Kali Linux Installation*
+
 ![kali linux](images/image1.png)
 
 2. **Create a Windows 10 VM**:
@@ -51,9 +52,17 @@ This documentation outlines the steps to set up and utilize a Network Penetratio
 - Configure the VM with at least 2 GB of RAM and 20 GB of disk space.
 - Attach the Windows 10 ISO to the VM and complete the installation process.
 
+*Ref 2: Windows 10 Installation*
+
+![windows 10](images/image2.png)
+
 3. **Create a Metasploitable 2 VM**:
 - Create another VM and configure it with similar specifications.
 - Attach the Metasploitable 2 ISO and complete the installation.
+
+*Ref 3: Metasploitable 2 Installation*
+
+![metasploitable 2](images/image3.png)
 
 4. **Network Configuration**:
 - Set all the VMs to use "Host-only Adapter" or "NAT Network" mode to ensure they can communicate with each other while remaining isolated from the main network.
