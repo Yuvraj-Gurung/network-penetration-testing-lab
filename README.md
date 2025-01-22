@@ -25,7 +25,7 @@ This documentation outlines the steps to set up and utilize a Network Penetratio
 
 ## Lab Setup
 
-### 🖥️ Step 1: Set Up Virtualization Environment
+### Step 1: 🖥️ Set Up Virtualization Environment
 
 1. **Download and Install Virtualization Software**:
 - *VirtualBox*: [Download VirtualBox](https://www.virtualbox.org/)
@@ -34,7 +34,7 @@ This documentation outlines the steps to set up and utilize a Network Penetratio
 - *Kali Linux*: [Download Kali Linux](https://www.kali.org/)
 - *Metasploitable 2*: [Download Metasploitable 2](https://sourceforge.net/projects/metasploitable2/)
 
-### 🖥️ Step 2: Create and Configure Virtual Machines (VMs)
+### Step 2: 🖥️ Create and Configure Virtual Machines (VMs)
 
 1. **Create a Kali Linux VM**:
 - Open the virtualization software and create a new VM.
@@ -65,7 +65,7 @@ This documentation outlines the steps to set up and utilize a Network Penetratio
 4. **Network Configuration**:
 - Set all the VMs to use "Host-only Adapter" or "NAT Network" mode to ensure they can communicate with each other while remaining isolated from the main network.
 
-### 🖥️ Step 3: Conducting Penetration testing
+### Step 3: 🖥️ Conducting Penetration testing
 
 1. **Information Gathering/Reconnaissance**
 - Performed network scanning using Nmap to identify live hosts and open ports.
@@ -159,7 +159,7 @@ This documentation outlines the steps to set up and utilize a Network Penetratio
 
 ![post-exploitation - windows 10 3](images/image22.png)
 
-5. 📘 **Reporting**
+### Step 4: 📘 Reporting
 
 a. *Findings*:
 - The project revealed multiple vulnerabilities, including unpatched software, weak passwords, and misconfigured services.
